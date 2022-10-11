@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "b847c74585cea1b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "2edaa4fd93b9261d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Etika Profesi/EP - 01. Etika Profesi.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e0491c387afc0362",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a869217d348ee9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4c0c3eed07f0a43",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "effae779e62e4b19",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "\"# Pengertian Teknologi\"",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f18c211352534b8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d3b2c42f1ea85dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a02988d579b8baa8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Etika Profesi/EP - 01. Etika Profesi.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d4c0c3eed07f0a43",
+  "lastOpenFiles": [
+    "Etika Profesi/EP - 00. Perkenalan.md",
+    "Manajemen Basis Data/MDB - 00. Pengantar.md",
+    "Analisis dan desain sistem informasi/ADSI - 02. Pertemuan 1.md",
+    "Analisis dan desain sistem informasi/ADSI - 00. Perkenalan.md",
+    "Sistem Operasi/SO - 01. Perkenalan.md",
+    "Technopreneurship/TE - 01. Technopreneurship dan Perkembangannya.md",
+    "Technopreneurship/TE - 00. Perkenalan.md",
+    "entrepreneurship.md",
+    "akshahsas.md",
+    "Etika Profesi/Untitled.md"
+  ]
+}
